@@ -1,9 +1,10 @@
 {
-  "Server 1": "All Good",
-  "Server 2": "Slow",
+  "Server 1": "Slow",
+  "Server 2": "Down",
   "Websites": "All Good",
   "Code Hosting": "Slow"
 }
+
 
 
 
