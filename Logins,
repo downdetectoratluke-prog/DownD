@@ -1,6 +1,7 @@
 {
   "users": [
     { "username": "Admin@nhs-staff.net", "password": "AdminAtTheNHS0000" },
+    { "username": "Lukey@admin.nhs.net", "password": "Lukey" },
     { "username": "Ownership@nhs-staff.net", "password": "OwnerAtTheNHS0001" },
     { "username": "ControlOffice999@nhs-999.net", "password": "999officeatboth999and3322" },
     { "username": "ControlOfficer111@nhs-111.net", "password": "111officeatboth111and2233" },
